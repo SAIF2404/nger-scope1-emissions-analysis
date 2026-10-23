@@ -33,6 +33,6 @@ Displayed trends have been checked for consistency with the imported annual tota
 
 ## Project status
 
-The report figures have been reconciled against the original CER publications
+
 
 This is an independent project and is not an official Clean Energy Regulator report.
