@@ -48,7 +48,7 @@ Clean Energy Regulator, [NGER reporting data and registers](https://cer.gov.au/m
 ## Files
 
 - [`NGER_Scope1_Analysis.pbix`](NGER_Scope1_Analysis.pbix): Power BI report (open in Power BI Desktop)
-- [`NGER_Scope1_Analysis.pdf`](NGER_Scope1_Analysis.pdf): PDF version, no Power BI needed
+- [`NGER_Scope1_Analysis.pdf`](NGER_Scope1_Analysis_1.pdf): PDF version, no Power BI needed
 
 ## Tools
 
