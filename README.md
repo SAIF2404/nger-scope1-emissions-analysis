@@ -2,7 +2,7 @@
 
 An independent Power BI project using published Clean Energy Regulator (CER) corporate emissions data. It looks at how Scope 1 emissions changed over three reporting years, which sectors emit the most, and how concentrated emissions are among the largest reporters.
 
-![Overview page](screenshot-overview.png)
+![Overview page](screenshot-overview_1.png)
 
 ## Key findings
 
