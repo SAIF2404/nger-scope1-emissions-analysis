@@ -23,7 +23,7 @@ An independent Power BI project using published Clean Energy Regulator (CER) cor
 <details>
 <summary>View all page screenshots</summary>
 
-![Trends page](screenshot-trends.png)
+![Trends page](screenshot-trends_1.png)
 ![Top Emitters page](screenshot-top-emitters.png)
 ![Insights page](screenshot-insights.png)
 
