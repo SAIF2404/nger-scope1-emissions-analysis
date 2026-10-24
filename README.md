@@ -39,12 +39,6 @@ Clean Energy Regulator, [NGER reporting data and registers](https://cer.gov.au/m
 - The set of published corporations **changes each year**, so the trend is not a like-for-like measure of emissions reduction.
 - Imported totals were checked for internal consistency. A full reconciliation against the original CER publications (corporation counts, top 20 rankings and concentration figures) is the next planned step.
 
-## Design choices
-
-- Chart titles state the main finding, so a reader can understand each chart in a few seconds.
-- The trend chart's axis starts at zero, so the size of the 2.9% decrease is shown honestly.
-- Coverage and comparability notes are shown on the report itself, not only in this README.
-
 ## Files
 
 - [`NGER_Scope1_Analysis.pbix`](NGER_Scope1_Analysis.pbix): Power BI report (open in Power BI Desktop)
